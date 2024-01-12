@@ -95,6 +95,8 @@
 	--email-background-colour: #fff4ee;
 	--email-divider-colour: var(--email-text-colour);
 	--email-text-colour: var(--main-text-colour-inverted);
+
+	--button-hover-colour: #11484B;
 }
 
 ::backdrop {

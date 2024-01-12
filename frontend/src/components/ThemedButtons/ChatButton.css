@@ -12,3 +12,7 @@
 	font-size: 1rem;
 	font-weight: 700;
 }
+
+.chat-button:hover{
+	background-color: var(--handbook-tab-hover-colour);
+}
