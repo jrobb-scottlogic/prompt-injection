@@ -18,5 +18,5 @@
 }
 
 .themed-button:hover{
-	background-color: var(--button-hover-colour);
+	background-color: var(--themed-button-hover-colour);
 }

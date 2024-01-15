@@ -29,10 +29,12 @@
 	--level-button-border-colour: var(--accent-border-colour);
 	--level-button-border-colour-disabled: #aaaaaa80;
 	--level-button-background-colour-selected: var(--accent-background-colour);
+	--level-button-hover-colour: #11484B;
 
 	--level-banner-border-colour: #bbb;
 	--level-banner-background-colour: #ddd;
 	--level-banner-text-colour: #444;
+	--level-banner-hover-colour: #fff;
 
 	--main-input-active-background-colour: var(--header-background-colour);
 	--main-input-active-text-colour: var(--main-text-colour);
@@ -87,6 +89,7 @@
 	--chat-button-background-colour: #eee;
 	--chat-button-border-colour: #ccc;
 	--chat-button-text-colour: #444;
+	--chat-button-hover-colour: #DEDEDE;
 
 	--avatar-circle-user-colour: #dff4f5;
 	--avatar-circle-bot-colour: #eeeeee;
@@ -96,7 +99,7 @@
 	--email-divider-colour: var(--email-text-colour);
 	--email-text-colour: var(--main-text-colour-inverted);
 
-	--button-hover-colour: #11484B;
+	--themed-button-hover-colour: #11484B;
 }
 
 ::backdrop {

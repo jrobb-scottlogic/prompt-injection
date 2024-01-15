@@ -14,5 +14,5 @@
 }
 
 .chat-button:hover{
-	background-color: var(--handbook-tab-hover-colour);
+	background-color: var(--chat-button-hover-colour);
 }
